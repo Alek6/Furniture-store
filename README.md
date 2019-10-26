@@ -18,3 +18,7 @@ Create a variable called `lovely_loveseat_description` and assign to it the foll
 
 2. Create a price for the loveseat.<br>
 Create a variable `lovely_loveseat_price` and set it equal to `254.00`.
+
+3. Extend our inventory with another characteristic piece of furniture!<br>
+Create a variable called `stylish_settee_description` and assign to it the following string:
+> Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 28 inches deep. Black.
