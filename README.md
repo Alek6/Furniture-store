@@ -13,5 +13,8 @@ In this project, we will be storing the names and prices of a furniture store’
 ###### Tasks
 
 1. Add in your first item, the Lovely Loveseat that is the store’s namesake.<br>
-Create a variable called lovely_loveseat_description` and assign to it the following string:`
-> Lovely Loveseat. Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white.
+Create a variable called `lovely_loveseat_description` and assign to it the following string:
+> Lovely Loveseat: Tufted polyester blend on wood. 32 inches high x 40 inches wide x 30 inches deep. Red or white.
+
+2. Create a price for the loveseat.<br>
+Create a variable `lovely_loveseat_price` and set it equal to `254.00`.
