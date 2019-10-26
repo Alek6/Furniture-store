@@ -9,3 +9,5 @@ stylish_settee_price = 180.50
 luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade."
 
 luxurious_lamp_price = 52.15
+
+sales_tax = .088
