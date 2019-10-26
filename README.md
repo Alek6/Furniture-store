@@ -26,6 +26,9 @@ Create a variable called `stylish_settee_description` and assign to it the follo
 4. Set the price for our Stylish Settee.<br>
 Create a variable `stylish_settee_price` and assign it the value of `180.50`.
 
-5. Fantastic, we just need one more item before we’re ready for business.
+5. Fantastic, we just need one more item before we’re ready for business.<br>
 Create a new variable called `luxurious_lamp_description` and assign it the following:
 > Luxurious Lamp. Glass and iron. 36 inches tall. Brown with cream shade.
+
+6. Set the price for this item.<br>
+Create a variable called `luxurious_lamp_price` and set it equal to `52.15`.
