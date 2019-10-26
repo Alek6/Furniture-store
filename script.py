@@ -3,3 +3,5 @@ lovely_loveseat_description = "Lovely Loveseat. Tufted polyester blend on wood. 
 lovely_loveseat_price = 254.00
 
 stylish_settee_description = "Stylish Settee. Faux leather on birch. 29.50 inches high x 54.75 inches wide x 28 inches deep. Black."
+
+stylish_settee_price = 180.50
