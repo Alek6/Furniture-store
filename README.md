@@ -65,3 +65,5 @@ Create a variable called `customer_one_tax` and set it equal to `customer_one_to
 
 16. Let’s start printing up their receipt! Begin by printing out the heading for their itemization.<br>
 Print the phrase `"Customer One Items:"`.
+
+17. Print customer_one_itemization.
