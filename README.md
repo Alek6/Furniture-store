@@ -62,3 +62,6 @@ Let’s add the price to the customer’s total.
 Create a variable called `customer_one_tax` and set it equal to `customer_one_total` times `sales_tax`.
 
 15. Add the sales tax to the customer’s total cost.
+
+16. Let’s start printing up their receipt! Begin by printing out the heading for their itemization.<br>
+Print the phrase `"Customer One Items:"`.
