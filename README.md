@@ -67,3 +67,5 @@ Create a variable called `customer_one_tax` and set it equal to `customer_one_to
 Print the phrase `"Customer One Items:"`.
 
 17. Print customer_one_itemization.
+
+18. Now add a heading for their total cost: Print out `"Customer One Total:"`
