@@ -60,3 +60,5 @@ Let’s add the price to the customer’s total.
 
 14. They’re ready to check out! Let’s begin by calculating sales tax.<br>
 Create a variable called `customer_one_tax` and set it equal to `customer_one_total` times `sales_tax`.
+
+15. Add the sales tax to the customer’s total cost.
