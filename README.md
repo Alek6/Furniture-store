@@ -57,3 +57,6 @@ Add the description of the Lovely Loveseat to `customer_one_itemization`.
 Let’s add the price to the customer’s total.
 
 13. Let’s keep the itemization up-to-date and add the description of the Luxurious Lamp to our itemization.
+
+14. They’re ready to check out! Let’s begin by calculating sales tax.<br>
+Create a variable called `customer_one_tax` and set it equal to `customer_one_total` times `sales_tax`.

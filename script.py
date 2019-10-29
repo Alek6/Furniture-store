@@ -24,3 +24,5 @@ customer_one_itemization = lovely_loveseat_description
 customer_one_total = luxurious_lamp_price
 
 customer_one_itemization += luxurious_lamp_description
+
+customer_one_tax = customer_one_total * sales_tax
