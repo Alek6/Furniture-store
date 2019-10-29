@@ -52,3 +52,6 @@ Add the price to `customer_one_total`.
 
 11. Let’s start keeping track of the items our customer purchased.<br>
 Add the description of the Lovely Loveseat to `customer_one_itemization`.
+
+12. Our customer has also decided to purchase the Luxurious Lamp!<br>
+Let’s add the price to the customer’s total.
