@@ -13,4 +13,4 @@ luxurious_lamp_price = 52.15
 sales_tax = .088
 
 # Our First Customer
-customer_one_total = luxurious_lamp_price
+customer_one_total = 0
