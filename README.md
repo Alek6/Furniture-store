@@ -55,3 +55,5 @@ Add the description of the Lovely Loveseat to `customer_one_itemization`.
 
 12. Our customer has also decided to purchase the Luxurious Lamp!<br>
 Let’s add the price to the customer’s total.
+
+13. Let’s keep the itemization up-to-date and add the description of the Luxurious Lamp to our itemization.
