@@ -72,3 +72,7 @@ Print the phrase `"Customer One Items:"`.
 
 19. Now print out their total!<br>
 Our first customer now has a receipt for the things they purchased.
+
+20. Congratulations! We created our catalog and served our first customer.<br>
+We used our knowledge of strings and numbers to create and update variables.<br>
+We were able to print out an itemized list and a total cost for our customer. Lovely!
