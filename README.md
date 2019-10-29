@@ -35,5 +35,44 @@ Create a variable called `luxurious_lamp_price` and set it equal to `52.15`.
 
 7. In order to be a business, we should also be calculating sales tax.<br>
 Let’s store that in a variable as well.<br>
-
 Define the variable `sales_tax` and set it equal to `.088`. That’s 8.8%.
+
+## Our First Customer
+
+8. Our first customer is making their purchase!<br>
+Let’s keep a running tally of their expenses by defining a variable called `customer_one_total`.
+Since they haven’t purchased anything yet, let’s set that variable equal to `0` for now.
+
+9. We should also keep a list of the descriptions of things they’re purchasing.<br>
+Create a variable called `customer_one_itemization` and set that equal to the empty string `""`.<br>
+We’ll tack on the descriptions to this as they make their purchases.
+
+10. Our customer has decided they are going to purchase our Lovely Loveseat!<br>
+Add the price to `customer_one_total`.
+
+11. Let’s start keeping track of the items our customer purchased.<br>
+Add the description of the Lovely Loveseat to `customer_one_itemization`.
+
+12. Our customer has also decided to purchase the Luxurious Lamp!<br>
+Let’s add the price to the customer’s total.
+
+13. Let’s keep the itemization up-to-date and add the description of the Luxurious Lamp to our itemization.
+
+14. They’re ready to check out! Let’s begin by calculating sales tax.<br>
+Create a variable called `customer_one_tax` and set it equal to `customer_one_total` times `sales_tax`.
+
+15. Add the sales tax to the customer’s total cost.
+
+16. Let’s start printing up their receipt! Begin by printing out the heading for their itemization.<br>
+Print the phrase `"Customer One Items:"`.
+
+17. Print customer_one_itemization.
+
+18. Now add a heading for their total cost: Print out `"Customer One Total:"`
+
+19. Now print out their total!<br>
+Our first customer now has a receipt for the things they purchased.
+
+20. Congratulations! We created our catalog and served our first customer.<br>
+We used our knowledge of strings and numbers to create and update variables.<br>
+We were able to print out an itemized list and a total cost for our customer. Lovely!
