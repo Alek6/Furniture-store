@@ -42,3 +42,7 @@ Define the variable `sales_tax` and set it equal to `.088`. That’s 8.8%.
 8. Our first customer is making their purchase!<br>
 Let’s keep a running tally of their expenses by defining a variable called `customer_one_total`.
 Since they haven’t purchased anything yet, let’s set that variable equal to `0` for now.
+
+9. We should also keep a list of the descriptions of things they’re purchasing.
+Create a variable called `customer_one_itemization` and set that equal to the empty string `""`.
+We’ll tack on the descriptions to this as they make their purchases.

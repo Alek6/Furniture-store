@@ -14,3 +14,5 @@ sales_tax = .088
 
 # Our First Customer
 customer_one_total = 0
+
+customer_one_itemization = ""
