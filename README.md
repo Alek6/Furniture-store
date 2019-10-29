@@ -69,3 +69,6 @@ Print the phrase `"Customer One Items:"`.
 17. Print customer_one_itemization.
 
 18. Now add a heading for their total cost: Print out `"Customer One Total:"`
+
+19. Now print out their total!<br>
+Our first customer now has a receipt for the things they purchased.
