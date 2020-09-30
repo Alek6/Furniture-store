@@ -10,6 +10,16 @@ luxurious_lamp_description = "Luxurious Lamp. Glass and iron. 36 inches tall. Br
 
 luxurious_lamp_price = 52.15
 
+Side Table = Side table 44*44*46
+
+STOOL w/WOODEN TOP = STOOL w/WOODEN TOP in mango wood  33*33*46
+
+CENTER TABLE WOODEN TOP (TEAK TOP) = 60*60*49
+
+NEST OF 3 TABLES = 40*30*45
+
+BED SIDE CABINET L&R OPEN = 50*40*70
+
 sales_tax = .088
 
 # Our First Customer
